@@ -6,7 +6,7 @@ En la práctica, gran parte de esta información se encuentra dispersa en la pro
 
 **Smart Wardrobe** propone un prototipo de aplicación que actúe como un “armario inteligente”, capaz de recomendar outfits combinando un catálogo digital de prendas con datos de contexto (meteorología, tipo de día, ocasión, preferencias del usuario).  
 
--
+---
 
 ## Objetivos principales  
 - Digitalizar un catálogo de ropa online con atributos básicos (tipo, color, formalidad, temporada).  
@@ -15,7 +15,7 @@ En la práctica, gran parte de esta información se encuentra dispersa en la pro
 - Desarrollar un motor de reglas de recomendación que sugiera combinaciones de outfits adaptadas al contexto.  
 - Presentar las recomendaciones en una interfaz clara, mostrando varias opciones junto con explicaciones sencillas.  
 
--
+---
 
 ## Plan inicial de trabajo  
 
